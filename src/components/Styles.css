@@ -1,0 +1,37 @@
+.herosection{
+    background: linear-gradient(rgba(0 , 0,  0, 0.1)  , rgba(0 , 0 , 0 ,0.1)) ,  url(/home/herosectionbg.svg);
+     background-size: cover;
+}
+.ABOUTUSBG{
+    background: linear-gradient(rgba(0 , 0,  0, 0.1)  , rgba(0 , 0 , 0 ,0.1)) ,  url(/home/ABOUTUSBG.svg);
+     background-size: cover;
+}
+.roadmapbg{
+    background: linear-gradient(rgba(0 , 0,  0, 0.1)  , rgba(0 , 0 , 0 ,0.1)) ,  url(/home/roadmapbg.svg);
+     background-size: 110%;
+}
+
+.maindev{
+/* From https://css.glass */
+background: rgba(40, 208, 101, 0.12);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(1.7px);
+-webkit-backdrop-filter: blur(1.7px);
+border: 1px solid rgba(40, 208, 101, 0.62);
+}
+
+.cards{
+    /* From https://css.glass */
+background: rgba(206, 212, 208, 0.18);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(1.4px);
+-webkit-backdrop-filter: blur(1.4px);
+border: 1px solid rgba(206, 212, 208, 0.62);
+}
+
+.footer{
+    background: linear-gradient(rgba(0 , 0,  0, 0.1)  , rgba(0 , 0 , 0 ,0.1)) ,  url(/home/Footer.svg);
+     background-size: 100%;
+}

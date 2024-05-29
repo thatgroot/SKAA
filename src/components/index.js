@@ -1,0 +1,10 @@
+export {default as Navbar} from "./Navbar";
+export {default as Header} from "./Header";
+export {default as AboutUs} from "./AboutUs";
+export {default as Snakenomics} from "./Snakenomics";
+export {default as Roadmap} from "./Roadmap";
+export {default as Partners} from "./Partners";
+export {default as Footer} from "./Footer";
+export {default as Salehero} from "./Salehero";
+export {default as Tabs} from "./Tabs";
+export {default as Presale} from "./Presale";

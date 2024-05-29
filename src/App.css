@@ -1,0 +1,16 @@
+html{
+ scroll-behavior: smooth;
+}
+
+@font-face {
+ font-family: "commic sans";
+ src: url("/fonts/ldfcomicsans-font/info.txt");
+ src: url("/fonts/ldfcomicsans-font/Ldfcomicsans-jj7l.ttf");
+ src: url("/fonts/ldfcomicsans-font/Ldfcomicsansbold-zgma.ttf");
+ src: url("/fonts/ldfcomicsans-font/Ldfcomicsanshairline-5PmL.ttf");
+ src: url("/fonts/ldfcomicsans-font/Ldfcomicsanslight-6dZo.ttf");
+}
+
+*{
+ font-family: "commic sans";
+}
